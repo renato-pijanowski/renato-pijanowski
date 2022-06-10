@@ -11,7 +11,7 @@ stuff as soon as possible.
 
 <h3>Languages</h3>
 <div style="display: inline_block">
-  <img align="center" alt="Renato_HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="Renato_HTML" height="30" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Renato_PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
   <img align="center" alt="Renato_PSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Renato_PSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg">
@@ -20,4 +20,9 @@ stuff as soon as possible.
 <h4>My Linkedin:</h4>
 <div>
   <a href="https://www.linkedin.com/in/renato-pijanowski-b2697b1b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
+<h5>STATS</h5>
+<div>
+  <a href="">
 </div>
