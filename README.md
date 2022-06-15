@@ -6,7 +6,7 @@ practicing every single day.
 
 <h2>What I'm focusing on this moment:</h2>
 
-Improving my SQL skills, Python and front-end (HTML, CSS and starting with JavaScript). I'm looking forward to work with datascience, machine learning and other
+Improving my SQL skills, Python and front-end (HTML, CSS and starting with JavaScript). I'm looking forward to work with data science, machine learning and other
 stuff as soon as possible.
 
 <h2>Languages</h2>
