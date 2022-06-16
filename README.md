@@ -25,6 +25,8 @@ stuff as soon as possible.
 <h2>STATS</h2>
 <div align="left">
   <a href="https://github.com/renato-pijanowski">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renato-pijanowski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renato-pijanowski&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 </div>
 </div>
